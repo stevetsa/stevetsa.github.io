@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isb on Steve Tsang</title>
+    <link>/tags/isb/</link>
+    <description>Recent content in Isb on Steve Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/isb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NCI Cloud Resources Workshop</title>
+      <link>/post/acmbcb-ncicr/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/acmbcb-ncicr/</guid>
+      <description>Overview: Technological advancements have given us the ability to sequence genomes in great depths, and, consequently, generated an exponential growth in data. National Cancer Institute Cloud Resources (NCICR), formerly the NCI Cancer Genomics Cloud Pilots, were developed with a goal democratizing NCI-generated cancer genomic data and facilitating analysis by co-localizing cloud computing and petabyte-scale data. Based on commercial cloud architectures, the Cloud Resources offer the flexibility for users to utilize tools in the form of Docker containers, and tools can be joined to create workflows described by Common Workflow Language (CWL) or Workflow Description Language (WDL).</description>
+    </item>
+    
+  </channel>
+</rss>

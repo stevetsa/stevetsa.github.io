@@ -1,0 +1,92 @@
++++
+title = "2018 ACM-BCB NCI Cloud Resources Workshop"
+description = ""
+tags = [
+    "cancer",
+    "genomics",
+    "cloud",
+    "containers",
+    "workflows",
+    "CWL", 
+    "WDL",
+    "FireCloud",
+    "Seven Bridges",
+    "ISB"
+]
+date = "2018-08-29"
+categories = [
+    "workshop",
+    "presentation",
+    "conference"
+]
++++
+
+## Overview:
+
+Technological advancements have given us the ability to sequence genomes in great depths, and, consequently, generated an exponential growth in data. National Cancer Institute Cloud Resources (NCICR), formerly the NCI Cancer Genomics Cloud Pilots, were developed with a goal democratizing NCI-generated cancer genomic data and facilitating analysis by co-localizing cloud computing and petabyte-scale data.  Based on commercial cloud architectures, the Cloud Resources offer the flexibility for users to utilize tools in the form of Docker containers, and tools can be joined to create workflows described by Common Workflow Language (CWL) or Workflow Description Language (WDL).  The application of the Cloud Resources has been expanded from cancer genomics to include proteomics, imaging, metagenomics, and analysis involving other types of data in the future.  The cloud environment has proven to be a cost-effective, reproducible, reusable, interoperable, and user-friendly alternative to high-performance computing, with minimal overhead and setup requirements.  These production-ready and highly scalable platforms represent a necessary step in a publicly available toolset meant to support open and Findable, Accessible, Interoperable, Reusable (FAIR) scientific research.  
+
+Through this demonstration workshop, participants will have the opportunity to 
+
+learn about the basic features of the NCICR, 
+create interoperable, containerized tools, and 
+run genomic analysis workflow on the Cloud Resources.
+
+## Prerequisite Materials:
+
+Personal computer with ability to connect via SSH (Secure Shell) and an email account (Gmail preferred.)
+Accessing NCI Cloud Resources -
+
+Broad Institute FireCloud
+Institute for Systems Biology (ISB) Cancer Genomics Cloud
+Seven Bridges Genomics Cancer Genomics Cloud
+
+## Planned Activities:
+
+Part I (50 min) - Introduction to NCI Cloud Resources
+An overview of NCI Cloud Resources and features of the three NCICR platforms.  During 
+this section, participants will learn the about NCI’s Cancer Research Data Commons, important 
+features and capabilities of the NCICR and set up accounts on each platform.  Participants will 
+also learn about creating Docker containers to be used in the following sections.
+
+Introduction to NCI Cloud Resources
+Introduction to Docker software containers and workflow languages (CWL, WDL)
+Account sign-up and installing software for the workshop
+
+[10 min] Break 
+
+Part III (50 min) - Introduction to Broad’s Firecloud
+During this section, participants will receive an overview of the platform, learn about important features, create tools and run analysis.
+
+Platform introduction
+Features
+Constructing a workflow and run analysis
+
+
+[10 min] Break
+
+Part II (50 min) - Introduction to Seven Bridges Cancer Genomics Cloud
+During this section, participants will receive an overview of the platform, learn about important 
+features, create tools and run analysis.
+
+Platform introduction
+Features
+Constructing a workflow and run analysis
+
+
+[10 min] Break
+
+Part IV (50 min) - Introduction to Institute for Systems Biology CGC and Q&A
+During this section, participants will receive an overview of the platform, learn about important features, create tools and run analysis.  
+
+Platform introduction
+Features
+Constructing a workflow and run analysis
+
+Participants will also have an opportunity to bring their own data and discuss with the speakers.
+
+## Corresponding Author: 
+
+Steve Tsang, Ph.D.
+Senior Biomedical Informaticist, National Cancer Institute
+hsinyi.tsang@nih.gov
+
