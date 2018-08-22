@@ -33,12 +33,9 @@ run genomic analysis workflow on the Cloud Resources.
 
 ## Location
 ACM-BCB 2018 will be held at:
-(JW Marriott Washington DC)[www.marriott.com/hotels/travel/wasjw-jw-marriott-washington-dc]
-1331 Pennsylvania Avenue NW
-Washington, DC 20004
-Phone: +1 202-393-2000
-Toll-free: +1 800-393-2503
-Maps and Transportation: http://www.marriott.com/hotels/maps/travel/wasjw-jw-marriott-washington-dc/
+[JW Marriott Washington DC](www.marriott.com/hotels/travel/wasjw-jw-marriott-washington-dc)
+[1331 Pennsylvania Avenue NW
+Washington, DC 20004](http://www.marriott.com/hotels/maps/travel/wasjw-jw-marriott-washington-dc/)
 
 ## Prerequisite Materials:
 
